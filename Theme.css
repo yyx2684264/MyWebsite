@@ -1,0 +1,57 @@
+body {
+    background-color: grey;
+}
+
+h1 {
+    color: black;
+    font-size: 72px;
+    text-align: center;
+}
+
+h3 {
+    color: greenyellow;
+}
+
+h4 {
+    background-color: azure;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+}
+
+th,
+td {
+    width: 100px;
+    text-align: center;
+    background-color: white
+}
+
+th {
+    background-color: orange;
+    color: white;
+}
+
+ul {
+    background-color: lightgreen;
+    color: black;
+    width: 50px;
+}
+
+p.about span {
+    color: brown;
+}
+
+#authername {
+    color: goldenrod;
+}
+
+.know {
+    background-color: blueviolet;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    width: 500px;
+    font-size: 21px;
+}

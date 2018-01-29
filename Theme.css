@@ -2,65 +2,7 @@ body {
     background-color: grey;
 }
 
-table,
-th,
-td {
-    border: 1px solid black;
-}
-
-th,
-td {
-    width: 100px;
-    text-align: center;
-    background-color: white
-}
-
-th {
-    background-color: orange;
-    color: white;
-}
-
-ul {
-    background-color: lightgreen;
-    color: black;
+button {
     width: 50px;
-}
-
-p.about span {
-    color: brown;
-}
-
-#authername {
-    color: goldenrod;
-}
-
-.know {
-    background-color: blueviolet;
-    color: white;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 21px;
-}
-
-#navi {
-    float: left;
-    height: 300px;
-    padding: 10px;
-    background-color: white;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-}
-
-#head {
-    background-color: black;
-    font-size: 24px;
-    color: white;
-    text-align: center
-}
-
-.main {
-    float: left;
-    margin: 5px;
-    padding: 15px;
-    width: 300px;
-    height: 300px;
-    border: 1px solid black;
+    height: 50px;
 }
